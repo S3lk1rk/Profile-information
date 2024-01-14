@@ -24,7 +24,7 @@ I'm a full-stack developer and passionate basketball player, devoted to learning
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s3lk1rk&" alt="s3lk1rk" /></p>
 ### 📊 Stats
 
-!(https://github-readme-stats.vercel.app/api?username=S3lk1rk&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=S3lk1rk&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=S3lk1rk&theme=gruvbox&border_radius=4.5) -->
 
