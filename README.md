@@ -1,4 +1,4 @@
-# 🏄‍♂️ Matthew Selkirk
+# ⛹️ Matthew Selkirk
 
 **`Professional developer (Software engineer/Data analyst/Web developer)`**
 
