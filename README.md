@@ -12,7 +12,7 @@ I'm a full-stack developer and passionate basketball player, devoted to learning
    </p>
 
 ---
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/matthew-selkirk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthew-selkirk" height="30" width="40" /></a>
 </p>
