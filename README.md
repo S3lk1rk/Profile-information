@@ -2,7 +2,7 @@
 
 **`Professional developer (Software engineer/Data analyst/Web developer)`**
 
-I'm a full stack-developer and passionate basketball player, with a passion for learning and problem solving. My projects are a mixture of university projects and personal development. I primarily work on a web application on behalf of the Tiresias project at Imperial College London, however due to the nature of the work it is not public. 
+I'm a full-stack developer and passionate basketball player, devoted to learning and problem-solving. My projects are a mixture of university projects and personal development. I primarily work on a web application on behalf of the Tiresias project at Imperial College London, however, due to the nature of the work it is not public. 
 
    <p align="left">
       <a href="https://github.com/S3lk1rk?tab=followers">
@@ -43,4 +43,4 @@ I'm a full stack-developer and passionate basketball player, with a passion for 
 
 <details>
  <summary><h3>👨‍💻 Matthew's Coding Journey</h3></summary>
-  I started coding as a high school student as part of my classes and found that I enjoyed the problem solving aspect. After dipping into the basics of object orientated programming and web development I decided to pursue it at university. I graduated in 2024 with 1st Class Honours from Glasgow Caledonian University and have continued to work for imperial college london on web development work started during my penultimate year. 
+  As a high school student, I started coding as part of my classes and found that I enjoyed the problem-solving aspect. After dipping into the basics of object-orientated programming and web development I decided to pursue it at university. I graduated in 2024 with 1st Class Honours from Glasgow Caledonian University and have continued to work for Imperial College London on web development work started during my penultimate year. 
