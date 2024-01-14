@@ -25,7 +25,6 @@ I'm a full-stack developer and passionate basketball player, devoted to learning
 ### 📊 Stats
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=s3lk1rk&show_icons=true&locale=en&layout=compact&theme=gruvbox)
 ![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=S3lk1rk&show_icons=true&theme=gruvbox)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=S3lk1rk&theme=gruvbox&border_radius=4.5)
 
 #
