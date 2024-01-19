@@ -1,6 +1,6 @@
 # ⛹️ Matthew Selkirk
 
-**`Professional developer (Software engineer/Data analyst/Web developer)`**
+**`Professional developer (Software engineer/Web developer)`**
 
 Web developer and passionate basketball player, devoted to learning and problem-solving. My projects are a mixture of university projects and personal development. I primarily work on a web application on behalf of the Tiresias project at Imperial College London, however, due to the nature of the work it is not public. 
 
