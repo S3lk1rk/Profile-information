@@ -21,7 +21,7 @@ Web developer and passionate basketball player, devoted to learning and problem-
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=react,django,docker,ansible,git,kubernetes,bootstrap,sklearn,html,js,css,express,figma,xd,heroku,java,jenkins,kubernetes,linux,mysql,nodejs,npm,php,py,nextjs,laravel,jquery,aws" />
   </a>
 </p>
 
